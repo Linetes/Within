@@ -13,5 +13,6 @@ public class Main {
 		mw.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		mw.setAlwaysOnTop(true);
 		mw.playSound();
+		//Prueba
 	}
 }
